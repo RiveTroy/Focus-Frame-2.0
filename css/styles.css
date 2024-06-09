@@ -24,6 +24,17 @@ button:hover {
     background-color: var(--button-hover-color);
     color: var(--brown-color);
 }
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+li {
+    list-style: none;
+}
+
+
+
+
 .menubar {
     background-color: var(--gradient-color);
 }
